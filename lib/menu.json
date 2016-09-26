@@ -4,16 +4,23 @@
             "name": "菜单1",
             "sub_button": [
                 {
-                    "name": "子菜单",
+                    "name": "爱学习",
                     "type": "click",
                     "key": "menu1"
+                }
+            ]
+            "sub_button": [
+                {
+                    "name": "爱思考",
+                    "type": "click",
+                    "key": "menu2"
                 }
             ]
         },
         {
             "name": "菜单2",
             "type": "click",
-            "key": "menu2"
+            "key": "menu3"
         },
         {
             "name": "更多...",
