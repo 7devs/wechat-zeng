@@ -7,15 +7,12 @@
                     "name": "爱学习",
                     "type": "click",
                     "key": "menu1"
-                }
-            ]
-            "sub_button": [
+                },
                 {
                     "name": "爱思考",
                     "type": "click",
                     "key": "menu2"
-                }
-            ]
+                }]
         },
         {
             "name": "菜单2",
