@@ -16,8 +16,19 @@
         },
         {
             "name": "菜单2",
-            "type": "scancode_push",
-            "key": "menu3"
+            "sub_button":[
+                {
+                    "name":"扫一扫",
+                    "type": "scancode_push",
+                    "key": "menu3"
+                },
+                {
+                    "name":"位置",
+                    "type":"location_select",
+                    "key":"menu4"
+                }
+            ]
+
         },
         {
             "name": "更多...",
