@@ -16,7 +16,7 @@
         },
         {
             "name": "菜单2",
-            "type": "click",
+            "type": "scancode_push",
             "key": "menu3"
         },
         {
