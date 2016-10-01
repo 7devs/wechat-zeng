@@ -9,7 +9,7 @@ app.use(bodyParser.urlencoded({
 }));
 
 
-wechat(conf.wechat);
+wechat(conf.wechat);//初始化，接受配置。在config.js里面，定义了wechat是什么
 wechat.createMenu(require('./lib/menu.json'));
 
 // 开放一个入口给微信，定义路由
